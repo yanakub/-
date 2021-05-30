@@ -1,0 +1,30 @@
+.text_k{
+    font-size: 32px;
+    text-align: right;
+}
+.margin150 {
+    margin-top: 150px;
+}
+.red {
+    background-color: #9A1212;
+    transform: scale(1.5);
+    color: white;
+    margin-top: 20px;
+}
+.red a {
+    color: white;
+}
+.setc{
+    width: 30vh;
+    height: 30vh;
+    margin-top: -5vh;
+}
+.text_f {
+    position: absolute;
+    text-align: right;
+    right: 0;
+    font-size: 25px;
+    color: #9A1212;
+    margin-right: 70px;
+    bottom: -20vh;
+}
